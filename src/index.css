@@ -1,0 +1,23 @@
+
+html,
+body,
+#root,
+.app,
+.content {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  /* font-family: "Gorditas", sans-serif; */
+}
+
+
+.app {
+    display: grid;
+    position: relative;
+    grid-template-columns: 1fr 4fr;
+ 
+  }
+
+ 
+  
